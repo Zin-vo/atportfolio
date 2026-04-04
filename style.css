@@ -226,6 +226,67 @@ body {
     box-shadow: 0 0 10px rgb(222, 9, 222);
 }
 
+a.about-me {
+  background-image: url(imgs/profile1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+    margin-top: 500px;
+    margin-bottom: 300px;
+    margin-left: 320px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgb(9, 169, 222);
+}
+
+a.language {
+    background-image: url(imgs/1_GB9gafmsdV-6YdRB03BMpg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+    margin-top: 500px;
+    margin-bottom: 300px;
+    margin-left: 320px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgb(9, 169, 222);
+}
+
+a.contacts {
+    background-image: url(imgs/119346452-modern-communication-contact-us-icons-design-symbols-for-technology-business-all-company-with-high.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+    margin-top: 500px;
+    margin-bottom: 300px;
+    margin-left: 320px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgb(9, 169, 222);
+}
+
+.about-me:hover{
+  background-image: url(imgs/profile2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 3;
+}
+
+.language:hover{
+  background-image: url(imgs/gif.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 3;
+}
+
+.contacts:hover{
+  background-image: url(imgs/contacts.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 3;
+}
+
+
 
 
 
