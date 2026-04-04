@@ -125,7 +125,15 @@ body {
   text-shadow: 0 0 10px rgb(9, 169, 222);
 }
 
+.p{
+  opacity: 0;
+}
 
+.p:hover{
+  opacity: 1;
+  transition: 0.5s ease-in-out;
+  box-shadow: 0 0 10px rgb(9, 169, 222);
+}
 
 
 
