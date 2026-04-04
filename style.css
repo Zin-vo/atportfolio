@@ -206,7 +206,7 @@ body {
     box-shadow: 0 0 10px rgb(9, 169, 222);
 }
 
-.options a {
+.oimg {
     margin-top: 500px;
     margin-bottom: 300px;
     margin-left: 320px;
@@ -224,6 +224,11 @@ body {
     height: 200px;
     border-radius: 50%;
     box-shadow: 0 0 10px rgb(222, 9, 222);
+}
+
+.options{
+  display: flex;
+  flex-direction: row;
 }
 
 .about-me {
