@@ -106,7 +106,7 @@ body {
 
 }
 
-.navigation a[https://zin-vo.github.io/atportfolio/index.html]{
+.navigation a[href=index.html]{
     text-decoration: underline;
     text-decoration-color: rgb(9, 169, 222);
     text-decoration-thickness: 4px;
