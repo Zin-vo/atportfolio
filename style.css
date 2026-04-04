@@ -106,6 +106,14 @@ body {
 
 }
 
+.navigation a[https://zin-vo.github.io/atportfolio/index.html]{
+    text-decoration: underline;
+    text-decoration-color: rgb(9, 169, 222);
+    text-decoration-thickness: 4px;
+    text-decoration-style: wavy;
+}
+
+
 
 .navigation {
     top: 0%;
