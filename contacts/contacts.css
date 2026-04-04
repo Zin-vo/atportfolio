@@ -4,7 +4,7 @@ body {
     margin: 0%;
 }
 
-.navigation a[href="contacts.html"]{
+.navigation a[href="contacts/contacts.html"]{
     text-decoration: underline;
     text-decoration-color: rgb(9, 169, 222);
     text-decoration-thickness: 4px;
