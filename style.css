@@ -232,7 +232,7 @@ body {
 }
 
 .about-me {
-  background-image: imgs/profile1.jpg;
+  background-image: url(imgs/profile1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
     margin-top: 500px;
