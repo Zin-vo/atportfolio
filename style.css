@@ -301,6 +301,53 @@ body {
 
 
 
+h1, h2, h3 {
+    opacity: 0;
+}
+
+/* h2 → right to left */
+h2 {
+    transform: translateX(100px);
+    animation: slideLeft 1s ease forwards;
+    animation-delay: 0.2s;
+}
+
+/* h1 → left to right */
+h1 {
+    transform: translateX(-100px);
+    animation: slideRight 1s ease forwards;
+    animation-delay: 0.5s;
+}
+
+/* h3 → bottom to top */
+h3 {
+    transform: translateY(100px);
+    animation: slideUp 1s ease forwards;
+    animation-delay: 0.8s;
+}
+
+/* Animations */
+@keyframes slideLeft {
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideRight {
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideUp {
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
 
 
 /* Responsive Design for Mobile Phones */
