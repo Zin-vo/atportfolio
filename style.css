@@ -226,7 +226,7 @@ body {
     box-shadow: 0 0 10px rgb(222, 9, 222);
 }
 
-a.about-me {
+.about-me {
   background-image: imgs/profile1.jpg;
   background-size: cover;
   background-repeat: no-repeat;
@@ -239,7 +239,7 @@ a.about-me {
     box-shadow: 0 0 10px rgb(9, 169, 222);
 }
 
-a.language {
+.language {
     background-image: url(imgs/1_GB9gafmsdV-6YdRB03BMpg.png);
   background-size: cover;
   background-repeat: no-repeat;
@@ -252,7 +252,7 @@ a.language {
     box-shadow: 0 0 10px rgb(9, 169, 222);
 }
 
-a.contacts {
+.contacts {
     background-image: url(imgs/119346452-modern-communication-contact-us-icons-design-symbols-for-technology-business-all-company-with-high.jpg);
   background-size: cover;
   background-repeat: no-repeat;
