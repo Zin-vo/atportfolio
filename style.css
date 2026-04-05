@@ -408,4 +408,32 @@ h3 {
     position: static;
     min-width: 100%;
   }
+
+      a.about-me{
+  width: 30%;
+  height: 18%;
+  position: absolute;
+  z-index: 10;
+  margin-left: 1%;
+  margin-top: 10%;
+}
+
+a.language{
+  width: 30%;
+  height: 18%;
+  position: absolute;
+  z-index: 10;
+  margin-left: 33%;
+  margin-top: 10%;
+}
+
+a.contacts{
+  width: 30%;
+  height: 18%;
+  position: absolute;
+  z-index: 10;
+  margin-left: 67%;
+  margin-top: 10%;
+}
+    
 }
